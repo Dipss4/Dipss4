@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="10%">
+  <h1><img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="10%"> Hi there, I'm Dipss4! 👋</h1>
+  
 </div>
 
-# Hi there, I'm Dipss4! 👋
 
 
 ## 👤 About Me
-- 🗺️ Daily Development Languages: C#, Python
-- ⚡ Languages ​​I'm Currently Learning: Rust, Java, Kotlin
-- 📦 A software reverse engineering newbie
-- 💡 A LeetCode algorithm problem newbie
-- ⚔️ A junior CTF player
-- 🚀 I enjoy watching anime, manga, light novels, etc.
+- 🖥️ Languages I Use Daily: C#, Python
+- 📚 Languages I'm Currently Learning: Rust, Java, Kotlin
+- 🔍 Aspiring Software Reverse Engineer
+- 🧩 Beginner in LeetCode & Algorithm Challenges
+- 🛡️ Junior CTF Player
+- 🎨 I enjoy anime, manga, light novels, and more
 
 ---
 
@@ -36,4 +36,4 @@
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.  
+✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
